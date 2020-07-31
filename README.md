@@ -18,6 +18,7 @@ The current plan of this work is as follows:
 4. Check the environment variables: 
    1. NVCUDASAMPLES_ROOT
    2. JAVA_HOME
+5. Modify `CUDA_CAPACITY` and `PROJECT_PATH` in `src\main\java\makefile`
 
 ## Run
 
