@@ -234,3 +234,20 @@ hs_err_pid*
 .history
 
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,cuda,cmake,java,intellij,visualstudiocode
+
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# ignore Maven generated target folders
+target
+
+# ignore eclipse files
+.project
+.classpath
+.settings
+.metadata
